@@ -28,7 +28,7 @@ export const FooterSocialIcons = styled.div`
   flex: 0 0 100%;
   margin-bottom: 2rem;
 
-  img {
+  & img {
     height: 22px;
     padding: 0 1rem;
     transition: filter 0.3s ease;
